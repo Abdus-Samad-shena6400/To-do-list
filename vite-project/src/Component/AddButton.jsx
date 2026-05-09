@@ -21,7 +21,7 @@ class AddButton extends React.Component {
         </div>
 
         {/* Footer section */}
-        <div className="w-full max-w-lg mx-auto mb-4 animate-[bounce_3s_infinite]">
+        <div className="w-full mb-4">
           <div className="bg-(--card) border border-(--border) rounded-2xl p-5 flex items-center gap-5 shadow-lg backdrop-blur-sm transition-all duration-300 hover:shadow-xl hover:border-emerald-500/50">
             {/* Profile Image */}
             <div className="w-16 h-16 rounded-full overflow-hidden border-2 border-emerald-500 shrink-0 shadow-inner">
@@ -36,7 +36,7 @@ class AddButton extends React.Component {
             <div className="flex flex-col text-left overflow-hidden">
               <h3 className="font-bold text-xl text-(--text) tracking-wide">Abdus Samad</h3>
               <p className="text-sm text-gray-500 dark:text-gray-400 mt-1 line-clamp-2">
-                Passionate Developer | Building modern, interactive, and responsive web applications with React and Vite.
+                Web Developer | Crafting elegant, interactive, and highly responsive web applications.
               </p>
             </div>
           </div>
