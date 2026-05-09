@@ -21,7 +21,7 @@ class AddButton extends React.Component {
         </div>
 
         {/* Footer section */}
-        <div className="w-full mb-4">
+        <div className="w-full mb-2">
           <div className="bg-(--card) border border-(--border) rounded-2xl p-5 flex items-center gap-5 shadow-lg backdrop-blur-sm transition-all duration-300 hover:shadow-xl hover:border-emerald-500/50">
             {/* Profile Image */}
             <div className="w-16 h-16 rounded-full overflow-hidden border-2 border-emerald-500 shrink-0 shadow-inner">
